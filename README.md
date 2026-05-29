@@ -4,7 +4,7 @@ Predicting Spotify track popularity from audio features using machine learning.
  
 ## Overview
  
-This project builds a machine learning pipeline to predict the popularity score of a Spotify track based on its audio characteristics such as energy, instrumentalness, speechiness, and genre. The dataset contains 97,000 tracks sourced from Kaggle.
+This project builds a machine learning pipeline to predict the popularity score of a Spotify track based on its audio characteristics such as energy, instrumentalness, speechiness, and genre. The dataset contains 114,000 tracks sourced from Kaggle.
  
 ## Dataset
  
