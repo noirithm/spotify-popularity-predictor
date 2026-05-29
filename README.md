@@ -16,11 +16,11 @@ https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 | Model | RMSE | STD |
 |---|---|---|
-| Linear Regression | 18.50 | 0.11 |
-| Decision Tree | 18.15 | 0.09 |
-| KNN | 17.87 | 0.07 |
-| XGBoost | 15.20 | 0.10 |
-| Random Forest | **13.95** | **0.04** |
+| Linear Regression | 18.54 | 0.08 |
+| Decision Tree | 18.13 | 0.04 |
+| KNN | 17.93 | 0.06 |
+| XGBoost | 15.23 | 0.16 |
+| Random Forest | **13.96** | **0.11** |
 
 Random Forest achieved the best performance with an RMSE of 13.95, meaning predictions are off by approximately 14 popularity points on average across a 0 to 100 scale.
 
